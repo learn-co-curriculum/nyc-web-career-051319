@@ -7,5 +7,4 @@
 ## Module 1
 | Topic               | Code                | Video                |
 | -----               | ----                | -----                |
-| Hasketball Review   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/01-hashketball-review) | [Part 1](https://youtu.be/XpY9k2Gi1Cc) - [Part 2](https://youtu.be/elLfmeQ5_jk
-) |
+| Hasketball Review   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/01-hashketball-review) | [Part 1](https://youtu.be/XpY9k2Gi1Cc) - [Part 2](https://youtu.be/elLfmeQ5_jk) |
