@@ -9,3 +9,6 @@
 | -----               | ----                | -----                |
 | Hasketball Review   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/01-hashketball-review) | [Part 1](https://youtu.be/XpY9k2Gi1Cc) - [Part 2](https://youtu.be/elLfmeQ5_jk) |
 | Intro to Object-Oriented Ruby | [code](https://github.com/aviflombaum/object-orientation-lecture-1) | [video](https://youtu.be/gb0bBxkp3Ng) |
+| Object Relationships: One to Many | [code](https://github.com/aviflombaum/object-orientation-lecture-2) | [video](https://youtu.be/frw1OcBhNaQ) |
+| Single Source of Truth | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/04-single-source-of-truth) | [video](https://youtu.be/zSpZ-hB5TyU)
+| Object Relationships: Many to Many | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/05-oo-many-to-many) | [video](https://youtu.be/9_MmxtnrPgg)
