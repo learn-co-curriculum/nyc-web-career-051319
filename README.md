@@ -13,5 +13,4 @@
 | Single Source of Truth | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/04-single-source-of-truth) | [video](https://youtu.be/zSpZ-hB5TyU)
 | Object Relationships: Many to Many | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/05-oo-many-to-many) | [video](https://youtu.be/9_MmxtnrPgg)
 | SQL & ORMs 1 | [code](https://github.com/aviflombaum/sql-lecture-1/tree/post-lecture-1) | [video](https://youtu.be/jx8i-Vx93ew)
-| SQL & ORMs 2 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/07-orms-and-foreign-keys) |
-[video](https://youtu.be/I4uUQKSW6H8)
+| SQL & ORMs 2 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/07-orms-and-foreign-keys) |[video](https://youtu.be/I4uUQKSW6H8)
