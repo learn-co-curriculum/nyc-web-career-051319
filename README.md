@@ -15,3 +15,8 @@
 | SQL & ORMs 1 | [code](https://github.com/aviflombaum/sql-lecture-1/tree/post-lecture-1) | [video](https://youtu.be/jx8i-Vx93ew)
 | SQL & ORMs 2 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/04-orms-and-foreign-keys) |[video](https://youtu.be/I4uUQKSW6H8)
 | ActiveRecord | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/05-activerecord) | [Part 1](https://youtu.be/stfA-vhyoSU) - [Part 2](https://youtu.be/PVOa3FxY408)
+
+## Module 2
+| Topic               | Code                | Video                |
+| -----               | ----                | -----                |
+| Intro to Internet   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/06-rack-intro) | [video](https://www.youtube.com/watch?v=0ojoOMpNgCs&feature=youtu.be)|
