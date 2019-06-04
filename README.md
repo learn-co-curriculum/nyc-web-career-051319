@@ -21,3 +21,4 @@
 | -----               | ----                | -----                |
 | Intro to Internet   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/06-rack-intro) | [video](https://www.youtube.com/watch?v=0ojoOMpNgCs&feature=youtu.be)|
 | Sinatra MVC & REST   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/07-sinatra-mvc/rappers) | [video](https://youtu.be/5UCviJ36Hv4)|
+| Sinatra Forms   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/08-sinatra-forms/rappers) | [video](https://www.youtube.com/watch?v=DCIrSGUbp3I&feature=youtu.be)|
