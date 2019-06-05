@@ -23,3 +23,4 @@
 | Sinatra MVC & REST   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/07-sinatra-mvc/rappers) | [video](https://youtu.be/5UCviJ36Hv4)|
 | Sinatra Forms   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/08-sinatra-forms/rappers) | [video](https://www.youtube.com/watch?v=DCIrSGUbp3I&feature=youtu.be)|
 | Sinatra Review   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/09-sinatra-forms-review/rappers) | [video](https://www.youtube.com/watch?v=tHllRJLYPcw&feature=youtu.be)|
+| Rails Intro & Forms   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/10-rails-intro-forms) | [video](https://youtu.be/slhQEwIzE_E)|
