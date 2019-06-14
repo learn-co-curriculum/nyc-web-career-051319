@@ -25,3 +25,4 @@
 | Sinatra Review   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/09-sinatra-forms-review/rappers) | [video](https://www.youtube.com/watch?v=tHllRJLYPcw&feature=youtu.be)|
 | Rails Intro & Forms   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/10-rails-intro-forms) | [video](https://youtu.be/slhQEwIzE_E)|
 | Rails Associations & Validations   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/11-rails-associations) | [video](https://youtu.be/71lUWIBs09U)|
+| Rails Auth   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/12-rails-auth) | [video](https://youtu.be/XHL5Edft-ng)|
