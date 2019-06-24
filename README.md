@@ -26,3 +26,12 @@
 | Rails Intro & Forms   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/10-rails-intro-forms) | [video](https://youtu.be/slhQEwIzE_E)|
 | Rails Associations & Validations   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/11-rails-associations) | [video](https://youtu.be/71lUWIBs09U)|
 | Rails Auth   | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/12-rails-auth) | [video](https://youtu.be/XHL5Edft-ng)|
+
+
+
+
+## Module 3
+| Topic               | Code                | Video                |
+| -----               | ----                | -----                |
+| Intro to JS  | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/13-intro-to-js) | [video](https://youtu.be/4vZOzozz9Vo)|
+| Scopes, Closures and Callbacks(OH MY!)  | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/14-scopes-closures-callbacks) | [video](https://youtu.be/__oPnrVs4dQ)|
