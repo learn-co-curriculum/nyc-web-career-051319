@@ -33,5 +33,6 @@
 ## Module 3
 | Topic               | Code                | Video                |
 | -----               | ----                | -----                |
-| Intro to JS  | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/13-intro-to-js) | [video](https://youtu.be/4vZOzozz9Vo)|
-| Scopes, Closures and Callbacks(OH MY!)  | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/14-scopes-closures-callbacks) | [video](https://youtu.be/__oPnrVs4dQ)|
+| Intro to JS ⚡️🤠 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/13-intro-to-js) | [video](https://youtu.be/4vZOzozz9Vo)|
+| Scopes, Closures and Callbacks(OH MY!) 🌝 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/14-scopes-closures-callbacks) | [video](https://youtu.be/__oPnrVs4dQ)|
+| The Dom and Events 🌲🤔  | [DOM](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/15-DOM-intro)[events](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/16-intro-to-events) | [video](https://youtu.be/4MP0BQGHheI)|
