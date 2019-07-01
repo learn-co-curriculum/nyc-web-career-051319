@@ -39,3 +39,4 @@
 | Task Lister Review 🙌 | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/17-task-lister-lite) | [video](https://youtu.be/0USCqgDzVHA)|
 | Intro to Ajax | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/18-intro-to-AJAX) | [video](https://youtu.be/7tZu_b-BTU8)|
 | Rails Api 🚂| [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/19-rails-api) | [video](https://youtu.be/uP_3mvhkL4Q)|
+| Pokemon Teams Review | [code](https://github.com/Cparusso/pokemon-teams-051319) | [video](https://youtu.be/Xy93UkfNhto)|
