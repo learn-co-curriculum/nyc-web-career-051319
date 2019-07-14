@@ -50,3 +50,4 @@
 | Topic               | Code                | Video                |
 | -----               | ----                | -----                |
 | Intro to React | [code]() | [video]()|
+| JSX and Props | [code]() | [video]()|
