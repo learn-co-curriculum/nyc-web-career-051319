@@ -49,5 +49,5 @@
 ## Module 4
 | Topic               | Code                | Video                |
 | -----               | ----                | -----                |
-| Intro to React | [code]() | [video]()|
+| Intro to React | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/24-intro-to-react) | [video](https://youtu.be/bKz7WqAaS2s)|
 | JSX and Props | [code]() | [video]()|
