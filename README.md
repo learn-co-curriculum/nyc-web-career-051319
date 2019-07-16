@@ -52,3 +52,4 @@
 | Intro to React | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/24-intro-to-react) | [video](https://youtu.be/bKz7WqAaS2s)|
 | JSX and Props | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/25-jsx-and-props) | [video](https://youtu.be/EyTtji7PEco)|
 | Intro to State | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/26-intro-to-state) | [video](https://youtu.be/Iid7AiG7CJM)|
+| State and Conditional Rendering | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/27-state-and-conditional-rendering) | [video](https://youtu.be/SbQzVLZ6Ehg)|
