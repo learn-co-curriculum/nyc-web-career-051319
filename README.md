@@ -54,3 +54,5 @@
 | Intro to State | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/26-intro-to-state) | [video](https://youtu.be/Iid7AiG7CJM)|
 | State and Conditional Rendering | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/27-state-and-conditional-rendering) | [video](https://youtu.be/SbQzVLZ6Ehg)|
 | State and Forms | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/28-state-and-forms) | [video](https://youtu.be/Pxbt4uyYm_Y)|
+| Component Lifecycle | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/29-component-lifecycle) | [video 1](https://youtu.be/MvSY0AZzsjA) / [video 2](https://youtu.be/ymDC6_NTBO8)|
+
