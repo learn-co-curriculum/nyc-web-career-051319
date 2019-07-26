@@ -58,3 +58,4 @@
 | React: Tips, Tricks, and Best Practices | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/30-react-tyips-tricks-and-best-practices) | [video](https://youtu.be/PFWiCWsIbwg)|
 | Sushi Saga Review | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/31-Sushi-Saga-Review) | [video](https://youtu.be/zyNaxF5wHVg)|
 | React Router | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/32-react-router) | [video](https://youtu.be/KwCkvSly1x0)|
+| Fullstack Auth | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth) | [video 1](https://youtu.be/fbpjdJInOZM) / [video 2]()|
