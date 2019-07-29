@@ -59,3 +59,4 @@
 | Sushi Saga Review | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/31-Sushi-Saga-Review) | [video](https://youtu.be/zyNaxF5wHVg)|
 | React Router | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/32-react-router) | [video](https://youtu.be/KwCkvSly1x0)|
 | Fullstack Auth | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth) | [video 1](https://youtu.be/fbpjdJInOZM) / [video 2](https://youtu.be/UCF0_eKB4Hs)|
+| React Under the Hood | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/34-react-under-the-hood) | [video](https://youtu.be/xamZjnBwv2E)|
