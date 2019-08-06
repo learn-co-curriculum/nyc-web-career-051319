@@ -63,3 +63,4 @@
 | Predux | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/35-predux) | [video](https://youtu.be/FN6MLhmL5eY)|
 | Redux | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/36-intro-to-redux) | [Intro](https://youtu.be/ygo-C_NEay0) / [React Redux](https://youtu.be/fmZXDJhhZQI)|
 | Combined Reducers | [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/37-combined-reducers) | [video](https://youtu.be/BiWJtb_BIIU) |
+| Thunk| [code](https://github.com/learn-co-students/nyc-web-students-051319/tree/master/38-thunk) | [video](https://youtu.be/axzjUhyk2pk) |
